@@ -1,4 +1,4 @@
-<b>Main Task:</b> To correctly classify the eye XRay obtained normally via Fundus Photography into 5 classes to determine whether the patient has diabetes or not/
+<b>Main Task:</b> To correctly classify the retina photographs obtained normally via Fundus Photography into 5 classes to determine the possibility of blindness occurring due to diabetes.
 
 <b>Dataset:</b> Obtained From https://www.kaggle.com/datasets/tanlikesmath/diabetic-retinopathy-resized
 

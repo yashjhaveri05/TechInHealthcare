@@ -4,4 +4,6 @@ This repository include 3 mini-projects which explore various Deep learning rela
 
 2)Lung X-Ray: Includes the classification of Lung X-rays into three categories: Normal, Pneumonia and Tuberculosis. ResNet50v2 model is used to build the classification model.
 
+3)Diabetic Retinopathy: Includes the classification of eyeball nerves into five categories to determine the possibility of possible blindness due to diabetes. ResNet50v2 model is used to build the classification model.
+
 3)Medical Transcription: Includes the classification of medical transcription text into over 30 classes. The roBERTa model is used for classification.
